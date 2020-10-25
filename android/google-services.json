@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "540531485576",
+    "firebase_url": "https://timetable-notifier.firebaseio.com",
+    "project_id": "timetable-notifier",
+    "storage_bucket": "timetable-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540531485576:android:c218de50eba2a30136e83d",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540531485576-g1iq267a544nrq6btqqls2p75428em10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmzHAR5QHALS1S4Bp8ZrfQ-lgtC-xHCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540531485576-g1iq267a544nrq6btqqls2p75428em10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540531485576:android:b265d1cbe7e3e3f3",
+        "android_client_info": {
+          "package_name": "host.timetable.timetablenotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540531485576-055cqo0tlqc51iln2crmn8o7t6dhu34k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.timetable.timetablenotifier",
+            "certificate_hash": "ef08fecb90f9b34096e157336358334d0d585ca4"
+          }
+        },
+        {
+          "client_id": "540531485576-4renpv19lj9n22tu29vt9cucniu2j05t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.timetable.timetablenotifier",
+            "certificate_hash": "320ca80a1be1cbcdbb1618cd9bb6fe6aa4a0e47f"
+          }
+        },
+        {
+          "client_id": "540531485576-2fo04q18lnst42p73g3eo9fnrn2rfk4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.timetable.timetablenotifier",
+            "certificate_hash": "5461b99da3a037bacfedf63df04a9bfbb16e13a7"
+          }
+        },
+        {
+          "client_id": "540531485576-g1iq267a544nrq6btqqls2p75428em10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbmzHAR5QHALS1S4Bp8ZrfQ-lgtC-xHCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540531485576-g1iq267a544nrq6btqqls2p75428em10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
